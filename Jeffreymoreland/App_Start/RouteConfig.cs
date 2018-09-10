@@ -16,6 +16,7 @@ namespace Jeffreymoreland
             routes.MapPageRoute("party", "party", "~/Pages/wip.aspx");
             routes.MapPageRoute("wip", "wip", "~/Pages/wip.aspx");
             routes.MapPageRoute("hawaii", "hawaii", "~/Pages/hawaii.aspx");
+            routes.MapPageRoute("jenni", "jenni", "~/Pages/jenni.aspx");
             /*
             routes.MapPageRoute("checkout", "checkout", "~/Pages/Checkout.aspx");
 

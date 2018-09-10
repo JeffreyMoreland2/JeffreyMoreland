@@ -75,7 +75,10 @@
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\fontAwesome.css" />
     <Content Include="css\hawaiistyle.css" />
+    <Content Include="css\hero-slider-style.css" />
+    <Content Include="css\jennistyle.css" />
     <Content Include="css\light-box.css" />
+    <Content Include="css\magnific-popup.css" />
     <Content Include="css\prettyPhoto.css" />
     <Content Include="css\style.css" />
     <Content Include="css\wipstyle.css" />
@@ -84,7 +87,6 @@
     <Content Include="fonts\font-awesome\css\font-awesome.min.css" />
     <Content Include="fonts\font-awesome\fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="img\hawaii\hawaii-loop.mp4" />
     <Content Include="img\about-bg.jpg" />
@@ -92,6 +94,82 @@
     <Content Include="img\aboutme\aboutheader.jpg" />
     <Content Include="img\aboutme\artistical.jpg" />
     <Content Include="img\aboutme\back.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-1-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-1.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-10-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-10.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-11-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-11.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-12-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-12.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-2-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-2.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-3-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-3.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-4-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-4.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-5-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-5.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-6-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-6.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-7-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-7.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-8-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-8.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-9-tn.jpg" />
+    <Content Include="img\jenni\arctic\tm-img-9.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-1-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-1.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-10-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-10.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-11-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-11.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-12-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-12.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-2-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-2.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-3-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-3.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-4-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-4.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-5-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-5.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-6-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-6.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-7-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-7.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-8-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-8.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-9-tn.jpg" />
+    <Content Include="img\jenni\temperate\tm-img-9.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-1-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-1.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-10-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-10.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-11-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-11.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-12-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-12.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-13-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-13.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-14-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-14.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-2-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-2.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-3-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-3.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-4-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-4.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-5-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-5.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-6-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-6.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-7-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-7.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-8-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-8.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-9-tn.jpg" />
+    <Content Include="img\jenni\tropical\tm-img-9.jpg" />
     <Content Include="img\wip\bg1.jpg" />
     <Content Include="img\hawaii\big_portfolio_item_1.jpg" />
     <Content Include="img\hawaii\big_portfolio_item_10.jpg" />
@@ -217,12 +295,15 @@
     <Content Include="js\contact_me.js" />
     <Content Include="js\custom.js" />
     <Content Include="js\easypiechart.js" />
+    <Content Include="js\hero-slider-main.js" />
     <Content Include="js\jqBootstrapValidation.js" />
+    <Content Include="js\jquery-1.11.3.min.js" />
     <Content Include="js\jquery.1.11.1.js" />
     <Content Include="js\jquery.countdown.js" />
     <Content Include="js\jquery.countdown.min.js" />
     <Content Include="js\jquery.counterup.js" />
     <Content Include="js\jquery.isotope.js" />
+    <Content Include="js\jquery.magnific-popup.min.js" />
     <Content Include="js\jquery.min.js" />
     <Content Include="js\jquery.prettyPhoto.js" />
     <Content Include="js\jquery.singlePageNav.min.js" />
@@ -230,10 +311,12 @@
     <Content Include="js\modernizr-2.8.3-respond-1.4.2.min.js" />
     <Content Include="js\plugins.js" />
     <Content Include="js\SmoothScroll.js" />
+    <Content Include="js\tether.min.js" />
     <Content Include="js\waypoints.js" />
     <Content Include="mail\contact_me.php" />
     <Content Include="pages\aboutme.aspx" />
     <Content Include="pages\hawaii.aspx" />
+    <Content Include="pages\jenni.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -264,6 +347,13 @@
     </Compile>
     <Compile Include="pages\hawaii.aspx.designer.cs">
       <DependentUpon>hawaii.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pages\jenni.aspx.cs">
+      <DependentUpon>jenni.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pages\jenni.aspx.designer.cs">
+      <DependentUpon>jenni.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="pages\wip.aspx.cs">
@@ -310,10 +400,6 @@
     <Content Include="fonts\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\fonts\glyphicons-halflings-regular.woff2" />
-    <Content Include="fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="css\bootstrap-theme.css.map" />
     <Content Include="css\bootstrap.css.map" />
     <None Include="packages.config" />

@@ -185,13 +185,13 @@
               <img src="img/portfolio/04-small.jpg" class="img-responsive" alt="An Adventure To Hawaii"> </a> </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3 col-lg-3 app">
+        <div class="col-sm-6 col-md-3 col-lg-3 branding">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a title="Project description">
+            <div class="hover-bg"> <a href="<%= ReturnUrl5 %>" title="Jenni Gallery" target="_blank">
               <div class="hover-text">
-                <h4>Project Title</h4>
-                <small>App Development</small> </div>
-              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Project Title"> </a> </div>
+                <h4>Jenni Gallery</h4>
+                <small>Branding</small> </div>
+              <img src="img/portfolio/05-small.jpg" class="img-responsive" alt="Jenni Gallery"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 branding">
