@@ -42,12 +42,12 @@
     <div class="container">
         <section class="col-md-12 content" id="home">
            <div class="col-lg-6 col-md-6 content-item">
-               <img src="../img/aboutheader.jpg" alt="Image" class="tm-image">
+               <img src="../img/aboutme/aboutheader.jpg" alt="Image" class="tm-image">
            </div>
            <div class="col-lg-6 col-md-6 content-item content-item-1 background">
                <h2 class="main-title text-center dark-blue-text">About Jeffrey Moreland</h2>
                <p>I believe that in order to remain healthy and happy my life should revolve around <span class="light-blue-text">balance</span>. As such, 
-               when I can I like to get 8 hours of sleep, 8 hours of work, and 8 hours of play. Of course, things get complicated when my work is my play!</p>
+               when possible I like to get 8 hours of sleep, 8 hours of work, and 8 hours of play. Of course, things get complicated when my work is my play!</p>
                <p>It is my understanding that a well-balanced person has a diversity of <span class="light-blue-text">interests</span> and
                <span class="light-blue-text">passions</span> a few of which I have outlined below.</p>
            </div>
@@ -55,7 +55,7 @@
 
        <section class="col-md-12 content padding" id="physical">
         <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
-           <img src="../img/physical.jpg" alt="Image" class="tm-image">
+           <img src="../img/aboutme/physical.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
            <h2 class="section-title">Physical</h2>
@@ -74,7 +74,7 @@
 
    <section class="col-md-12 content" id="intellectual">
        <div class="col-lg-6 col-md-6 content-item">
-           <img src="../img/intellectual.jpg" alt="Image" class="tm-image">
+           <img src="../img/aboutme/intellectual.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 content-item background flexbox">
            <h2 class="section-title">Intellectual</h2>
@@ -90,7 +90,7 @@
 
    <section class="col-md-12 content padding" id="artistical">
        <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
-           <img src="../img/artistical.jpg" alt="Image" class="tm-image">
+           <img src="../img/aboutme/artistical.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
            <h2 class="section-title">Artistical</h2>
@@ -107,7 +107,7 @@
 
    <section class="col-md-12 content" id="hobbies">
        <div class="col-lg-6 col-md-6 content-item">
-           <img src="../img/hobbies.jpg" alt="Image" class="tm-image">
+           <img src="../img/aboutme/hobbies.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 content-item background flexbox">
            <h2 class="section-title">Hobbies</h2>
@@ -117,7 +117,7 @@
            <p>My family has a strong <span class="light-blue-text">relationship</span> with the Japanese culture going back to my grandfather. 
                As such, it seemed natural to have an interest in anime as soon as it was first introduced.
            <p>Through months and years of sampling different genres I've fallen the most in <span class="light-blue-text">love</span> with a 
-           sub-genre called Female Vocal Trance</p>
+           sub-genre called Female Vocal Trance.</p>
            <p>Whether it was repairing my laptop's inverter, reprogramming my tablet, or building my own cruiser bicycle from parts I am fully aware that 
            when I have a will there is a way.</p>
        </div>
@@ -126,7 +126,7 @@
 
    <section class="col-md-12 content padding" id="travel">
        <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
-           <img src="../img/travel.jpg" alt="Image" class="tm-image">
+           <img src="../img/aboutme/travel.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
            <h2 class="section-title">Travel</h2>
@@ -143,13 +143,13 @@
 
 <footer class="col-md-12 content" id="contact">
  <div class="col-lg-6 col-md-6 last">
-   <img src="../img/contact.jpg" alt="Image" class="tm-image">
+   <img src="../img/aboutme/contact.jpg" alt="Image" class="tm-image">
 </div>
  <div class="col-lg-6 col-md-6 background last about-text-container">
      <h2 class="section-title">Contact Me:</h2>
      <p><span class="light-blue-text">Jeffrey Moreland</span></p>
      <a class="col-md-12 light-blue-text" href="mailto:jeffrey.moreland2@gmail.com">jeffrey.moreland2@gmail.com</a>
-      <div class="col-md-8 text-center"><img src="../img/phone2.jpg"></div>
+      <div class="col-md-8 text-center"><img src="../img/phone.gif"></div>
  </div>
 </footer>
 
@@ -158,7 +158,7 @@
 <div id="footer">
   <div class="container text-center">
     <div class="fnav">
-      <p>Copyright &copy; 2018 Jeffrey Moreland. Designed by Belgrade Heroes</p>
+      <p>Copyright &copy; 2018 Jeffrey Moreland. Designed by BelgradeHeroes</p>
     </div>
   </div>
 </div>

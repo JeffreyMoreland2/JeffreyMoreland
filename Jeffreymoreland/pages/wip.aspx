@@ -20,24 +20,24 @@
 
 <body>
 <div id="preloader">
-  <div id="status"> <img src="../img/preloader.gif" height="64" width="64" alt=""> </div>
+  <div id="status"> <img src="../img/wip/preloader.gif" height="64" width="64" alt=""> </div>
 </div>
 <div class="coming-soon">
   <div class="container">
     <div class="row">
         
-      <div class="logo"><img src="../img/logo.jpg" class="logoimg"><br /> BelgradeHeroes</div>
+      <div class="logo"><img src="../img/wip/logo.jpg" class="logoimg"><br /> BelgradeHeroes</div>
       <h2>Work In Progress</h2>
       <p>Soon we will be launching our brand new company website.</p>
       <p class="tleft">Remaining Time Until Release</p>
       <div class="counter">
-        <div class="days-wrapper"> <span class="days">8</span> <br>
+        <div class="days-wrapper"> <span class="days"></span> <br>
           days </div>
-        <div class="hours-wrapper"> <span class="hours">12</span> <br>
+        <div class="hours-wrapper"> <span class="hours"></span> <br>
           hours </div>
-        <div class="minutes-wrapper"> <span class="minutes">5</span> <br>
+        <div class="minutes-wrapper"> <span class="minutes"></span> <br>
           minutes </div>
-        <div class="seconds-wrapper"> <span class="seconds">30</span> <br>
+        <div id="wrapper" class="seconds-wrapper"> <span id="seconds" class="seconds"></span> <br>
           seconds </div>
       </div>
     </div>
@@ -55,5 +55,10 @@
 <script src="../js/bootstrap.min.js"></script> 
 <script src="../js/jquery.countdown.js"></script> 
 <script src="../js/custom.js"></script>
+    <script>
+        $('#wrapper').countdown('2019/7/10').on('update.countdown', function(event) {
+            $('#seconds').html(event.strftime('%S'));
+        });
+    </script>
 </body>
 </html>

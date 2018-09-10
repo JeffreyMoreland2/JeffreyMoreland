@@ -32,7 +32,7 @@
             </div>
         </div>
         <video autoplay="" loop="" muted>
-        	<source src="../hawaii-loop.mp4" type="video/mp4" />
+        	<source src="../img/hawaii/hawaii-loop.mp4" type="video/mp4" />
         </video>
     </div>
 
@@ -41,7 +41,7 @@
         <div class="container-fluid">
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_1.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_1.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Morning <em>sunrise</em></h1>
@@ -49,14 +49,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_1.png">
+                            <img src="../img/hawaii/portfolio_item_1.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_2.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_2.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Rolling <em>mountains</em></h1>
@@ -64,14 +64,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_2.png">
+                            <img src="../img/hawaii/portfolio_item_2.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_3.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_3.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Paradise <em>beach</em></h1>
@@ -79,14 +79,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_3.png">
+                            <img src="../img/hawaii/portfolio_item_3.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_4.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_4.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Sister <em>waterfalls</em></h1>
@@ -94,14 +94,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_4.png">
+                            <img src="../img/hawaii/portfolio_item_4.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_5.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_5.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Local <em>flora</em></h1>
@@ -109,14 +109,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_5.png">
+                            <img src="../img/hawaii/portfolio_item_5.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_6.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_6.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Midday <em>shower</em></h1>
@@ -124,14 +124,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_6.png">
+                            <img src="../img/hawaii/portfolio_item_6.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_7.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_7.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Raging <em>rapids</em></h1>
@@ -139,14 +139,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_7.png">
+                            <img src="../img/hawaii/portfolio_item_7.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_8.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_8.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Tree <em>roots</em></h1>
@@ -154,14 +154,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_8.png">
+                            <img src="../img/hawaii/portfolio_item_8.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_9.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_9.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Hidden <em>cove</em></h1>
@@ -169,14 +169,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_9.png">
+                            <img src="../img/hawaii/portfolio_item_9.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_10.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_10.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Longest <em>waterfall</em></h1>
@@ -184,14 +184,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_10.png">
+                            <img src="../img/hawaii/portfolio_item_10.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_11.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_11.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Ruby <em>flower</em></h1>
@@ -199,14 +199,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_11.png">
+                            <img src="../img/hawaii/portfolio_item_11.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_12.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_12.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Volcano <em>eruption</em></h1>
@@ -214,14 +214,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_12.png">
+                            <img src="../img/hawaii/portfolio_item_12.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_13.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_13.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Sunken <em>Crater</em></h1>
@@ -229,14 +229,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_13.png">
+                            <img src="../img/hawaii/portfolio_item_13.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_14.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_14.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Forgotten <em>road</em></h1>
@@ -244,14 +244,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_14.png">
+                            <img src="../img/hawaii/portfolio_item_14.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_15.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_15.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Lava <em>Wasteland</em></h1>
@@ -259,14 +259,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_15.png">
+                            <img src="../img/hawaii/portfolio_item_15.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_16.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_16.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Battered <em>cliffs</em></h1>
@@ -274,14 +274,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_16.png">
+                            <img src="../img/hawaii/portfolio_item_16.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_17.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_17.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Upside <em>down</em></h1>
@@ -289,14 +289,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_17.png">
+                            <img src="../img/hawaii/portfolio_item_17.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_18.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_18.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Lava <em>tunnel</em></h1>
@@ -304,14 +304,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_18.png">
+                            <img src="../img/hawaii/portfolio_item_18.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_19.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_19.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Darkest <em>path</em></h1>
@@ -319,14 +319,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_19.png">
+                            <img src="../img/hawaii/portfolio_item_19.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_20.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_20.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Crystal <em>clear</em></h1>
@@ -334,14 +334,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_20.png">
+                            <img src="../img/hawaii/portfolio_item_20.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_21.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_21.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Clouds <em>below</em></h1>
@@ -349,14 +349,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_21.png">
+                            <img src="../img/hawaii/portfolio_item_21.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_22.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_22.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Fiery <em>horizon</em></h1>
@@ -364,14 +364,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_22.png">
+                            <img src="../img/hawaii/portfolio_item_22.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_23.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_23.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Vanishing <em>footsteps</em></h1>
@@ -379,14 +379,14 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_23.png">
+                            <img src="../img/hawaii/portfolio_item_23.png">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
-                    <a href="../img/big_portfolio_item_24.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="../img/hawaii/big_portfolio_item_24.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Heavenly <em>sky</em></h1>
@@ -394,7 +394,7 @@
                             </div>
                         </div>
                         <div class="image">
-                            <img src="../img/portfolio_item_24.png">
+                            <img src="../img/hawaii/portfolio_item_24.png">
                         </div>
                     </div></a>
                 </div>

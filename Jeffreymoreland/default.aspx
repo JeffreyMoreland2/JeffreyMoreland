@@ -149,13 +149,13 @@
     </div>
     <div class="row">
       <div class="portfolio-items">
-        <div class="col-sm-6 col-md-3 col-lg-3 web">
+        <div class="col-sm-6 col-md-3 col-lg-3 branding">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="<%= ReturnUrl1 %>" title="About Jeffrey Moreland" target="_blank">
               <div class="hover-text">
                 <h4>About Me</h4>
                 <small>Branding</small> </div>
-              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="About Jeffrey Moreland"></a> </div>
+              <img src="img/portfolio/01-small.jpg" class="img-responsive" alt="About Jeffrey Moreland"> </a> </div>
           </div>
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 app">
@@ -187,7 +187,7 @@
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 app">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/05-large.jpg" title="Project description" rel="prettyPhoto">
+            <div class="hover-bg"> <a title="Project description">
               <div class="hover-text">
                 <h4>Project Title</h4>
                 <small>App Development</small> </div>
@@ -196,7 +196,7 @@
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 branding">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/06-large.jpg" title="Project description" rel="prettyPhoto">
+            <div class="hover-bg"> <a title="Project description">
               <div class="hover-text">
                 <h4>Project Title</h4>
                 <small>Branding</small> </div>
@@ -205,7 +205,7 @@
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 branding app">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/07-large.jpg" title="Project description" rel="prettyPhoto">
+            <div class="hover-bg"> <a title="Project description">
               <div class="hover-text">
                 <h4>Project Title</h4>
                 <small>App Development, Branding</small> </div>
@@ -214,7 +214,7 @@
         </div>
         <div class="col-sm-6 col-md-3 col-lg-3 web">
           <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio/08-large.jpg" title="Project description" rel="prettyPhoto">
+            <div class="hover-bg"> <a title="Project description">
               <div class="hover-text">
                 <h4>Project Title</h4>
                 <small>Web Design</small> </div>
@@ -412,7 +412,7 @@
                 <h4 class="subheading">Chemical Process Technology</h4>
               </div>
               <div class="timeline-body2">
-                <p>Graduated with a 3.2 GPA and Leader of the Ethanol Pilot Plant Operations Team. </p>
+                <p>Graduated with a 3.2 GPA and Leader of the Ethanol Pilot Plant Operations Team.</p>
               </div>
             </div>
           </li>
